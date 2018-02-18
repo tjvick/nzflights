@@ -1,0 +1,19 @@
+{
+  "name": "nzflights",
+  "version": "1.0.0",
+  "description": "Find cheap flights to New Zealand!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjvick/nzflights.git"
+  },
+  "author": "Tyler Vick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjvick/nzflights/issues"
+  },
+  "homepage": "https://github.com/tjvick/nzflights#readme"
+}
